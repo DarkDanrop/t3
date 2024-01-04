@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 DarkDanrop/t3 is built on the following main stack:
+
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
 - [C++](http://www.cplusplus.com/) – Languages
@@ -12,11 +13,13 @@ DarkDanrop/t3 is built on the following main stack:
 - [Roslyn](https://github.com/dotnet/roslyn) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 DarkDanrop/t3 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
@@ -27,14 +30,15 @@ DarkDanrop/t3 is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/20930/default_275fb27c037c57f3394917ebca90dc2465c97ed8.png' alt='Roslyn'/> [Roslyn](https://github.com/dotnet/roslyn) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DarkDanrop/t3](https://github.com/DarkDanrop/t3)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|11/09/23 <br/>Report generated|
+|23<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -157,4 +161,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
