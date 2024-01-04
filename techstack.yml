@@ -1,7 +1,8 @@
 repo_name: DarkDanrop/t3
 report_id: 6aaabca521fe4f99c22a517ddb5c3d15
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T12:53:53+00:00'
+timestamp: '2024-01-04T14:53:35+00:00'
 requested_by: pixtur
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/DarkDanrop/t3
   detection_source: Repo Metadata
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/DarkDanrop/t3
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/DarkDanrop/t3
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/T3/T3.csproj
   detection_source: T3/T3.csproj
   last_updated_by: Thomas Mann
   last_updated_on: 2022-03-23 23:14:47.000000000 Z
@@ -60,8 +65,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: Core/Core.csproj
-  detection_source: T3/T3.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
+  detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
 - name: ASP.NET Core
@@ -75,8 +80,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: Core/Core.csproj
-  detection_source: T3/T3.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
+  detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
 - name: Git
@@ -87,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DarkDanrop/t3
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -96,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/T3/T3.csproj
   detection_source: T3/T3.csproj
   last_updated_by: pixtur
   last_updated_on: 2019-06-09 11:27:43.000000000 Z
@@ -108,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/20930/default_275fb27c037c57f3394917ebca90dc2465c97ed8.png
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/T3/T3.csproj
   detection_source: T3/T3.csproj
   last_updated_by: pixtur
   last_updated_on: 2019-06-09 11:27:43.000000000 Z
@@ -120,6 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/DdsImport/DdsImport.sln
   detection_source: DdsImport/DdsImport.sln
   last_updated_by: Thomas Mann
   last_updated_on: 2021-06-30 18:17:15.000000000 Z
@@ -133,8 +142,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13122/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
-  detection_source_url: Player/Player.csproj
-  detection_source: Player/packages.config
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Player/Player.csproj
+  detection_source: Player/Player.csproj
   last_updated_by: Thomas Mann
   last_updated_on: 2022-03-08 20:01:27.000000000 Z
 - name: ManagedBass
@@ -147,8 +156,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14043/default_f63b6f87747061a7417e1a12e4df8ac332340e7a.png
-  detection_source_url: Core/Core.csproj
-  detection_source: Operators/Operators.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
+  detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
 - name: Microsoft.CodeAnalysis
@@ -161,7 +170,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13228/default_44258eb565a346d4baf5243c0df2a219253fec1a.png
-  detection_source_url: T3/T3.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/T3/T3.csproj
   detection_source: T3/T3.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
@@ -175,7 +184,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13430/default_b5cc6dac756daf8a76f449b0db2d2933859829df.png
-  detection_source_url: Operators/Operators.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Operators/Operators.csproj
   detection_source: Operators/Operators.csproj
   last_updated_by: Thomas Mann
   last_updated_on: 2022-06-07 08:35:48.000000000 Z
@@ -189,8 +198,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: Core/Core.csproj
-  detection_source: Player/packages.config
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
+  detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
 - name: SharpDX
@@ -202,7 +211,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13411/default_de77a8370e47861dfbe30f06e25c22916ed609b5.png
-  detection_source_url: Player/packages.config
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Player/packages.config
   detection_source: Player/packages.config
   last_updated_by: cynic
   last_updated_on: 2020-02-10 18:36:37.000000000 Z
@@ -215,8 +224,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14987/default_753dce338a1351731e4c43ce9405c65fd53151d4.png
-  detection_source_url: Core/Core.csproj
-  detection_source: Player/packages.config
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
+  detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
 - name: SharpDX.DXGI
@@ -228,7 +237,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13707/default_7e85943e00e5b8451be72dcd9480fe58fa599e72.png
-  detection_source_url: Player/packages.config
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Player/packages.config
   detection_source: Player/packages.config
   last_updated_by: cynic
   last_updated_on: 2020-02-10 18:36:37.000000000 Z
@@ -241,7 +250,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13598/default_b3a9fa7efbcc92b2b6d42b9fa9afd23454bef416.png
-  detection_source_url: Core/Core.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
   detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
@@ -254,8 +263,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13640/default_68f579b2fdb37f974ffe5edb6e34476d1305c023.png
-  detection_source_url: Core/Core.csproj
-  detection_source: Player/packages.config
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
+  detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
 - name: SharpDX.Mathematics
@@ -267,8 +276,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14348/default_11623d31c9a0fe3552bdd0ec51d1dc8e7c373f9a.png
-  detection_source_url: Core/Core.csproj
-  detection_source: Player/packages.config
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Core/Core.csproj
+  detection_source: Core/Core.csproj
   last_updated_by: cynic
   last_updated_on: 2021-11-03 20:25:48.000000000 Z
 - name: SharpDX.MediaFoundation
@@ -280,7 +289,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15656/default_8ecc759a1edcd117364c5cceefb691b1e862d31f.png
-  detection_source_url: Operators/Operators.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Operators/Operators.csproj
   detection_source: Operators/Operators.csproj
   last_updated_by: Thomas Mann
   last_updated_on: 2021-11-07 15:53:31.000000000 Z
@@ -295,7 +304,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15065/default_60803a01c257b84510f2e273f4834bcb642d90a7.png
-  detection_source_url: Operators/Operators.csproj
+  detection_source_url: https://github.com/DarkDanrop/t3/blob/master/Operators/Operators.csproj
   detection_source: Operators/Operators.csproj
   last_updated_by: Thomas Mann
   last_updated_on: 2021-11-07 15:53:31.000000000 Z
